@@ -1,9 +1,7 @@
 web/
 ├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
+├── styles.css
+├── script.js
 ├── images/
 │   ├── girl_frame.png
 │   ├── quote.png
@@ -13,4 +11,5 @@ web/
 │   └── icons/
 │       └── search.svg (not yet)
 └── fonts/ (not yet)
+
     └── custom-font.woff2
