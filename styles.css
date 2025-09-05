@@ -24,6 +24,11 @@ header {
     padding: 10px 20px;
 }
 
+.dark-theme {
+            background-color: #333;
+            color: #eee;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -172,3 +177,4 @@ header {
         top: -8px;
     }
 }
+
